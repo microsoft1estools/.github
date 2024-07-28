@@ -1,1 +1,4 @@
 # .github
+Damarcus Jones Ai Chips 
+Code.app/Contents/Resources/app/out/vs/workbench/node/extensionHostProcess.js:11:15517)Code.app/Contents/Resources/app/out/vs/workbench/node/extensionHostProcess.js:11:14525)Code.app/Contents/Resources/app/out/vs/workbench/node/extensionHostProcess.js:6:13653)Code.app/Contents/Resources/app/out/vs/workbench/node/extensionHostProcess.js:6:15829)Code.app/Contents/Resources/app/out/vs/workbench/node/extensionHostProcess.js:11:13505)Code.app/Contents/Resources/app/out/vs/workbench/node/extensionHostProcess.js:10:22905)Code.app/Contents/Resources/app/out/vs/workbench/node/extensionHostProcess.js:7:30449)Code.app/Contents/Resources/app/out/vs/workbench/node/extensionHostProcess.js:7:31126)// *danger* will match newline chars and many other folks
+"trailing-spaces.regexp": "[\\s]+"
