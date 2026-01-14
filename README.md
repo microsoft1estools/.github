@@ -1,1 +1,1 @@
-# .github
+alphabet inc. all right reserved
